@@ -1,6 +1,6 @@
 # Ticket Booking System
 
-A ticket management web application built using React and Tailwind CSS. It allows users to book, track, and manage tickets efficiently with an intuitive and responsive user interface.
+A ticket booking web application built using React and Tailwind CSS. It allows users to book, track, and manage tickets efficiently with an intuitive and responsive user interface.
 
 ### 🌐 [Live Website](https://ticket-management-arfan.vercel.app/)
 
