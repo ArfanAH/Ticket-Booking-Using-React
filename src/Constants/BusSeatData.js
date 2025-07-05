@@ -1,0 +1,45 @@
+const busSeatData = [
+  { id: 'A4', status: 'booked', price: 1200 },
+  { id: 'B4', status: 'booked', price: 1200 },
+  { id: 'C4', status: 'booked', price: 1200 },
+  { id: 'D4', status: 'available', price: 1200 },
+  { id: 'E4', status: 'available', price: 1200 },
+  { id: 'F4', status: 'booked', price: 1200 },
+  { id: 'G4', status: 'booked', price: 1200 },
+  { id: 'H4', status: 'available', price: 1200 },
+  { id: 'I4', status: 'available', price: 1200 },
+
+  { id: 'A3', status: 'booked', price: 1200 },
+  { id: 'B3', status: 'booked', price: 1200 },
+  { id: 'C3', status: 'available', price: 1200 },
+  { id: 'D3', status: 'available', price: 1200 },
+  { id: 'E3', status: 'available', price: 1200 },
+  { id: 'F3', status: 'booked', price: 1200 },
+  { id: 'G3', status: 'available', price: 1200 },
+  { id: 'H3', status: 'available', price: 1200 },
+  { id: 'I3', status: 'available', price: 1200 },
+
+  { id: 'I5', status: 'available', price: 1200 },
+
+  { id: 'A1', status: 'booked', price: 1200 },
+  { id: 'B1', status: 'available', price: 1200 },
+  { id: 'C1', status: 'booked', price: 1200 },
+  { id: 'D1', status: 'booked', price: 1200 },
+  { id: 'E1', status: 'available', price: 1200 },
+  { id: 'F1', status: 'booked', price: 1200 },
+  { id: 'G1', status: 'booked', price: 1200 },
+  { id: 'H1', status: 'available', price: 1200 },
+  { id: 'I1', status: 'available', price: 1200 },
+
+  { id: 'A2', status: 'available', price: 1200 },
+  { id: 'B2', status: 'available', price: 1200 },
+  { id: 'C2', status: 'booked', price: 1200 },
+  { id: 'D2', status: 'available', price: 1200 },
+  { id: 'E2', status: 'booked', price: 1200 },
+  { id: 'F2', status: 'booked', price: 1200 },
+  { id: 'G2', status: 'available', price: 1200 },
+  { id: 'H2', status: 'available', price: 1200 },
+  { id: 'I2', status: 'available', price: 1200 },
+]
+
+export default busSeatData;
